@@ -1,0 +1,13 @@
+Shahabaz- 
+login page(Student+faculty)
+Sign up page\
+PoJo: AppUser, Faculty, Student, Role, Notifiaction, Controller/service packages for  every class
+ 
+Prashant- StudentDashboard
+AppUser, Course, reviews, Student, Grade, Assignment Status, Exam
+Nishanth- CourseDashboard
+Course Redirection, Faculty, LearningMaterial, Notification, Attendance
+Aakash- FacultyDashboard
+course, LearningMaterials, Faculty, Exam, Notification, Score, Status, performance Metric, Grade
+Aditya- ProfileDashboard
+Course, Role, Exam, PerformanceMetric, Grade, Attendance
